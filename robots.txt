@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yanisdeyramirez.com/sitemap.xml
+Sitemap: https://yanisdei.pages.dev/sitemap.xml
